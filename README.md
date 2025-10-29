@@ -2,7 +2,7 @@
 
 > ⚠️ **This repository is deprecated and no longer maintained.**  
 > 🚀 The active and updated version of this project can now be found at:  
-> [https://github.com/brewlabshq/validator-startup-hashicorp-vault](https://github.com/brewlabshq/validator-startup-hashicorp-vault)
+> [https://github.com/brewinginfra/validator-startup-hashicorp-vault](https://github.com/brewinginfra/validator-startup-hashicorp-vault)
 
 ---
 
